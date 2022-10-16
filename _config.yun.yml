@@ -272,3 +272,7 @@ giscus:
   emit-metadata: 0
   theme: preferred_color_scheme
 
+google_analytics:
+  enable: true
+  id: G-HQLXRRDCF3
+
