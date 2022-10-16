@@ -107,3 +107,31 @@ deploy:
   repo: https://github.com/DreamLanter/DreamLanter.github.io
   branch: master
   message: init Hexo
+marked:
+  gfm: true
+  pedantic: false
+  breaks: true
+  smartLists: true
+  smartypants: true
+  quotes: “”‘’
+  modifyAnchors: 0
+  autolink: true
+  mangle: true
+  sanitizeUrl: false
+  headerIds: true
+  lazyload: false
+  prependRoot: false
+  postAsset: false
+  external_link:
+    enable: false
+    exclude: []
+    nofollow: false
+  disableNunjucks: false
+widget_tree:
+  cdn: false
+  hide: false
+  layout: tree
+  showCount: true
+  toc:
+    enable: true
+    list_number: false
