@@ -7,6 +7,7 @@ tags:
  - 博客
 categories: 碎碎念
 sticky: 1
+hide: ture
 description: 施工中，换个 post 看看吧
 ---
 如果你在访问本站时出现以下问题
