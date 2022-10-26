@@ -140,3 +140,6 @@ feed:
   type: atom
   path: atom.xml
   icon: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg
+google_analytics:
+  enable: true
+  id: G-HQLXRRDCF3
