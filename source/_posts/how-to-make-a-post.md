@@ -5,7 +5,7 @@ tags:
  - 博客
  - 写作
 categories: 技术相关
-hide: true
+hide: false
 ---
 # 一篇 Post 是怎么诞生的
 
@@ -57,11 +57,11 @@ Mindnote 是一款思维导图软件更他类似的软件有 Xmind
 
 我用它没有特别的原因是他在 [SETAPP](https://setapp.com/) 大礼包里面可以直接免费用而且苹果全家桶都能用 iOS iPadOS macOS 都能用
 
-![](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20%E5%A4%A7%E7%BA%B2)
+![](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20%E5%A4%A7%E7%BA%B2)_页面样式如下_
 
 而且他还能反向生成大纲结构
 
-![大纲图](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20Post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20outline.png)
+![大纲图](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/%E4%B8%80%E7%AF%87%20Post%20%E6%98%AF%E6%80%8E%E6%A0%B7%E8%AF%9E%E7%94%9F%E7%9A%84%20outline.png)_论大纲是如何越来越不直观的_
 
 ##### 如何绘制思维导图
 
@@ -117,7 +117,7 @@ Mindnote 是一款思维导图软件更他类似的软件有 Xmind
 
 因为写作采用的是 Markdown 格式所以在草稿阶段我用 Typora 进行写作
 
-![](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/Typora.png)
+![](https://raw.githubusercontent.com/DreamLanter/picture-bed/main/Typora.png)_Typora 还是很好用的_
 
 #### Word
 
