@@ -1,30 +1,30 @@
 mode: auto
 
 avatar:
-  url: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg
+  url: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/favicon.png #https://article.biliimg.com/bfs/new_dyn/f20ff38ab7e07f813309b702cfc0710934010561.jpg
   rounded: true
   mickey_mouse: true
   status:
     enable: true
-    emoji: 🌑
+    emoji: 🤐
     message: 资源分享，社会观察，碎碎念
 
-# reward:
-#   enable: true
-#   comment: 我很可爱，请给我钱
-#   methods:
-#     - name: 支付宝
-#       path: https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg
-#       color: '#00A3EE'
-#       icon: ri:alipay-line
-#     - name: QQ 支付
-#       path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
-#       color: '#12B7F5'
-#       icon: ri:qq-line
-#     - name: 微信支付
-#       path: https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg
-#       color: '#2DC100'
-#       icon: ri:wechat-pay-line
+reward:
+   enable: true
+   comment: 给我打点钱吧！我什么都会做的！我真的什么都会做的！！
+   methods:
+     - name: 支付宝
+       path: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/PixelSnap%202023-08-01%20at%2011.43.59%402x.png
+       color: '#00A3EE'
+       icon: ri:alipay-line
+    #  - name: QQ 支付
+    #    path: https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png
+    #    color: '#12B7F5'
+    #    icon: ri:qq-line
+     - name: 微信支付
+       path: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/PixelSnap%202023-08-01%20at%2011.43.49%402x.png
+       color: '#2DC100'
+       icon: ri:wechat-pay-line
 
 # comment:
 #   candidates:
@@ -75,7 +75,7 @@ avatar:
 #     title: 云游君的赞助者们
 #   beian:
 #     enable: true
-#     icp: 苏ICP备17038157号
+#     icp: 苏 ICP 备 17038157 号
 #   support:
 #     enable: true
 #     title: 又拍云
@@ -178,31 +178,31 @@ social:
      icon: ri:github-line
      color: '#6e5494'
 
-   - name: Twitter
-     link: https://twitter.com/codeNdyttl5
-     icon: ri:twitter-line
-     color: '#1da1f2'
+  #  - name: Twitter
+  #    link: https://twitter.com/codeNdyttl5
+  #    icon: ri:twitter-line
+  #    color: '#1da1f2'
 
-   - name: Telegram Channel
-     link: https://t.me/DreamLanterLazy
-     icon: ri:telegram-line
-     color: '#0088CC'
+  #  - name: Telegram Channel
+  #    link: https://t.me/DreamLanterLazy
+  #    icon: ri:telegram-line
+  #    color: '#0088CC'
    - name: E-Mail
      link: mailto:ndyttl0903@gmail.com
      icon: ri:mail-line
      color: '#8E71C1'
-#   - name: Travelling
-#     link: https://travellings.link
-#     icon: ri:train-line
-#     color: black
+   - name: Travelling
+     link: https://travellings.link
+     icon: ri:train-line
+     color: black
 # pjax:
 #   enable: true
 banner:
   enable: true
   title: 
     - DreamLanter
-    - 今天
-    - 也很闲
+    - の
+    - Blog
   border: true
   cloud:
     enable: true
@@ -229,12 +229,12 @@ medium_zoom: true
 
 pages: 
 
-sidebar:
-  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg
-  bg_position: bottom 3rem center
-  tagcloud:
-    enable: false
-    amount: 20
+# sidebar:
+#   bg_image: https://article.biliimg.com/bfs/new_dyn/f20ff38ab7e07f813309b702cfc0710934010561.jpg
+#   bg_position: bottom 2rem center
+#   tagcloud:
+#     enable: false
+#     amount: 20
 menu:
   homr:
     path: /
@@ -282,3 +282,4 @@ google_analytics:
 
 codeblock:
   copy_btn: true
+favicon: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/favicon.png
