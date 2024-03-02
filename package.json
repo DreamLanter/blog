@@ -21,7 +21,7 @@
     "hexo-generator-tag": "^1.0.0",
     "hexo-render-pug": "^2.1.4",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
+    "hexo-renderer-marked": "^6.2.0",
     "hexo-renderer-org": "https://github.com/CodeFalling/hexo-renderer-org#emacs",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
