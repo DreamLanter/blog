@@ -104,7 +104,7 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/DreamLanter/DreamLanter.github.io/blog
+  repo: https://github.com/DreamLanter/blog
   branch: master
   message: Add post
 marked:
