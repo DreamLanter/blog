@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://DreamLanter.github.io
+url: https://DreamLanter.github.io/blog
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,7 +104,7 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/DreamLanter/DreamLanter.github.io
+  repo: https://github.com/DreamLanter/DreamLanter.github.io/blog
   branch: master
   message: Add post
 marked:
@@ -140,6 +140,6 @@ feed:
   type: atom
   path: atom.xml
   icon: https://raw.githubusercontent.com/DreamLanter/picture-bed/main/avatar.jpg
-google_analytics:
-  enable: true
-  id: G-HQLXRRDCF3
+# google_analytics:
+#   enable: true
+#   id: G-HQLXRRDCF3
